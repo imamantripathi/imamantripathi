@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imamantripathi
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java 
+- 👀 I’m interested in software development, Web Development, Android Development
+- 🌱 I’m currently learning Java, C, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on beginning projects
 - 📫 How to reach me ...
 Gmail | imamantripathi@gmail.com
